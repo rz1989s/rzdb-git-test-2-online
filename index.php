@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>GIT remote RZDB - push</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora sint ab suscipit dolore, repellat, inventore quis facere debitis harum atque iure aliquam animi totam commodi libero unde tempore necessitatibus nemo.</p>
 </body>
 </html>
